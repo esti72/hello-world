@@ -1,2 +1,2 @@
 # hello-world
-First test for a depository
+First test for a repository
